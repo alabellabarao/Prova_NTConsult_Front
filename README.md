@@ -29,7 +29,6 @@
         <li>Ir no google e digitar "install Vs Code"</li>
         <li>Escolher o link referente a Download Visual Sudio Code e baixar o Vs Code conforme o sistema operacional que está utilizando</li>
         <li>Link para baixar: <a href="https://code.visualstudio.com/download">https://code.visualstudio.com/download</a></li>
-      <li>Instalar o Vs Code</li>
         <li>Instalar o Vs Code</li>
         <li>Para abrir o Vs Code, basta ir no cmd e digitar "code ."</li>
     </ul>
