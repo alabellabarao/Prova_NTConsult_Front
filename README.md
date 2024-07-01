@@ -50,7 +50,6 @@
   </ul>
 
    <h3>Cenário 1: Adicionar cliente</h3>
-   <h2>Passos para Teste Automatizado</h2>
   <ol>
     <li>Acessar a página <a href="https://www.grocerycrud.com/v1.x/demo/bootstrap_theme" target="_blank">https://www.grocerycrud.com/v1.x/demo/bootstrap_theme</a></li>
     <li>Mudar o valor da combo Select version para “Bootstrap V4 Theme”</li>
@@ -61,6 +60,18 @@
     <li>Fechar o browser</li>
   </ol>
 
+    <h3>Cenário 1: Deletar cliente criado no cenário 1 </h3>
+      <ol>
+    <li>Acessar a página <a href="https://www.grocerycrud.com/v1.x/demo/bootstrap_theme" target="_blank">https://www.grocerycrud.com/v1.x/demo/bootstrap_theme</a></li>
+    <li>Mudar o valor da combo Select version para “Bootstrap V4 Theme”</li>
+    <li>Clicar na coluna “Search Name” e digitar o conteúdo do Name criado no Cenário 1</li>
+    <li>Clicar no checkbox abaixo da palavra Actions</li>
+    <li>Clicar no botão Delete</li>
+    <li>Validar o texto “Are you sure that you want to delete this 1 item?” através de uma asserção para a popup que será apresentada</li>
+    <li>Clicar no botão Delete da popup</li>
+    <li>Validar a mensagem “Your data has been successfully deleted from the database.” dentro de um box verde na parte superior direito da tela através de uma asserção</li>
+    <li>Fechar o browser</li>
+  </ol>
    <h2>Critérios Técnicos Específicos Automação de Testes Back-End:s</h2>
   <ul>
     <li>Utilizar, de preferência: Java 11+</li>
