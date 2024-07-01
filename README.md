@@ -40,7 +40,6 @@
         <li>Verificar se o Cypress foi instalado, utilizando o comando: npx cypress verify</li>
     </ul>
   <h3 class="subtitle">5 - Automação referente ao Projeto NT Consult, Escrever o Cenário 1 para Cadastro de cliente e Cenário 2 para Deletar o cliente cadastrado. </h3>
-
      <h2>Critérios Técnicos Específicos Automação de Testes Front-End:</h2>
   <ul>
     <li>Utilizar BDD</li>
