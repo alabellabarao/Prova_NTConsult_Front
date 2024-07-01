@@ -61,7 +61,7 @@
   </ol>
 
     <h3>Cenário 1: Deletar cliente criado no cenário 1 </h3>
-      <ol>
+  <ol>
     <li>Acessar a página <a href="https://www.grocerycrud.com/v1.x/demo/bootstrap_theme" target="_blank">https://www.grocerycrud.com/v1.x/demo/bootstrap_theme</a></li>
     <li>Mudar o valor da combo Select version para “Bootstrap V4 Theme”</li>
     <li>Clicar na coluna “Search Name” e digitar o conteúdo do Name criado no Cenário 1</li>
