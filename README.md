@@ -1,6 +1,6 @@
 <body>
   <div class="center-container">
-    <h1 class="title">Automação do Projeto Sigma</h1>
+    <h1 class="title">Automação do Projeto NT Consutl</h1>
   </div>
   <div>
     <h4 class="subtitle">1 - Ferramentas/Linguagens que está sendo utilizada para automação do Projeto Sigma:</h4>
