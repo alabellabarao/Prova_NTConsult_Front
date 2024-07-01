@@ -1,0 +1,15 @@
+
+{
+    "name": "Pedro Bento",
+    "lastName": "das Neves Cruz Ferreira",
+    "firstName": "Pedro Ferreira", 
+    "fone": "32-90001-3266",
+    "addressLine1": "Avenida das Rendeiras 423",
+    "addressLine2": "Avenida Medianeira 485",
+    "city": "São Paulo",
+    "state": "SP",
+    "postalCode":"423520-000",
+    "country": "Brasil",
+    "creditLimit": "1.000,00",
+    "deleted": "Novo motivo para deletar"
+}
