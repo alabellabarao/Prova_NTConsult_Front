@@ -59,8 +59,7 @@
     <li>Validar a mensagem “Your data has been successfully stored into the database. Edit Customer or Go back to list” através de uma asserção</li>
     <li>Fechar o browser</li>
   </ol>
-
-    <h3>Cenário 1: Deletar cliente criado no cenário 1 </h3>
+    <h3>Cenário 2: Deletar cliente criado no cenário 1</h3>
   <ol>
     <li>Acessar a página <a href="https://www.grocerycrud.com/v1.x/demo/bootstrap_theme" target="_blank">https://www.grocerycrud.com/v1.x/demo/bootstrap_theme</a></li>
     <li>Mudar o valor da combo Select version para “Bootstrap V4 Theme”</li>
