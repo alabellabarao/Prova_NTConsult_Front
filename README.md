@@ -77,5 +77,11 @@
     <li>Criar relatório da execução dos testes. Ter screenshots é um plus no relatório</li>
     <li>Passar os testes em quality gate (SonarQube) e exibir boas práticas de testes de qualidade em forma de métricas no relatório (diferencial)</li>
   </ul>
+
+   <h3>Automação de Testes Back-End</h3>
+  <ol>
+    <li>Escolha uma API pública (sugestões: https://jsonplaceholder.typicode.com/, https://pokeapi.co/, https://developer.marvel.com/)</li>
+    <li>Realize ao menos um teste positivo e um teste negativo para cada método(GET, POST, PUT/PATCH e DELETE).</li>
+  </ol>
     </body>
 </html>
